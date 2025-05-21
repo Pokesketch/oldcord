@@ -1,3 +1,4 @@
+
 }.theme-dark:not(html.custom-theme-background, :has(#clientThemeVars)) {
 	--background-base-low: var(--background-primary);
 	--background-base-lower: var(--background-primary);
